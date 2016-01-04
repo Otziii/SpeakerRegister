@@ -1,0 +1,14 @@
+C:\Users\ojorfald\Dropbox\Privat\Prosjekter\Private prosjekter\Angular\SpeakerRegister\SpeakerRegister\SpeakerRegister\bin\AngularJSWebApiEmpty.dll.config
+C:\Users\ojorfald\Dropbox\Privat\Prosjekter\Private prosjekter\Angular\SpeakerRegister\SpeakerRegister\SpeakerRegister\bin\AngularJSWebApiEmpty.dll
+C:\Users\ojorfald\Dropbox\Privat\Prosjekter\Private prosjekter\Angular\SpeakerRegister\SpeakerRegister\SpeakerRegister\bin\AngularJSWebApiEmpty.pdb
+C:\Users\ojorfald\Dropbox\Privat\Prosjekter\Private prosjekter\Angular\SpeakerRegister\SpeakerRegister\SpeakerRegister\bin\Newtonsoft.Json.dll
+C:\Users\ojorfald\Dropbox\Privat\Prosjekter\Private prosjekter\Angular\SpeakerRegister\SpeakerRegister\SpeakerRegister\bin\System.Net.Http.Formatting.dll
+C:\Users\ojorfald\Dropbox\Privat\Prosjekter\Private prosjekter\Angular\SpeakerRegister\SpeakerRegister\SpeakerRegister\bin\System.Web.Http.dll
+C:\Users\ojorfald\Dropbox\Privat\Prosjekter\Private prosjekter\Angular\SpeakerRegister\SpeakerRegister\SpeakerRegister\bin\System.Web.Http.WebHost.dll
+C:\Users\ojorfald\Dropbox\Privat\Prosjekter\Private prosjekter\Angular\SpeakerRegister\SpeakerRegister\SpeakerRegister\bin\Newtonsoft.Json.xml
+C:\Users\ojorfald\Dropbox\Privat\Prosjekter\Private prosjekter\Angular\SpeakerRegister\SpeakerRegister\SpeakerRegister\bin\System.Net.Http.Formatting.xml
+C:\Users\ojorfald\Dropbox\Privat\Prosjekter\Private prosjekter\Angular\SpeakerRegister\SpeakerRegister\SpeakerRegister\bin\System.Web.Http.xml
+C:\Users\ojorfald\Dropbox\Privat\Prosjekter\Private prosjekter\Angular\SpeakerRegister\SpeakerRegister\SpeakerRegister\bin\System.Web.Http.WebHost.xml
+C:\Users\ojorfald\Dropbox\Privat\Prosjekter\Private prosjekter\Angular\SpeakerRegister\SpeakerRegister\SpeakerRegister\obj\Debug\SpeakerRegister.csprojResolveAssemblyReference.cache
+C:\Users\ojorfald\Dropbox\Privat\Prosjekter\Private prosjekter\Angular\SpeakerRegister\SpeakerRegister\SpeakerRegister\obj\Debug\AngularJSWebApiEmpty.dll
+C:\Users\ojorfald\Dropbox\Privat\Prosjekter\Private prosjekter\Angular\SpeakerRegister\SpeakerRegister\SpeakerRegister\obj\Debug\AngularJSWebApiEmpty.pdb
